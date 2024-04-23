@@ -6,7 +6,7 @@
 
 **Prerequisites:**  Math 1B, Math 10B, or the equivalent.
 
-**Course Objectives:**  To gain a good understanding of the topics above, especially how they interrelate to each other, and being able to solve a variety of problems where these concepts could be presented in different ways.
+**Course Objectives:**  To gain a good understanding of the topics below, especially how they interrelate to each other, and being able to solve a variety of problems where these concepts could be presented in different ways.
 
 I am taking this class in the Spring Semester of 2024, with professor Arun Sharma! Here is the [course website!](https://www.ocf.berkeley.edu/~asharma/Math54/)
 - On this website you can find all of Professor Sharma's notes, Weekly Quizzes with their Solutions, Homeworks and their Solutions, Midterms and their Solutions, as well as Review Worksheets.
