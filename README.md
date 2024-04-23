@@ -1,4 +1,4 @@
-# MATH-54: Linear Algebra and Differential Equations
+# MATH 54: Linear Algebra and Differential Equations
 
 <p align="center">
     <img src="https://slc.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/math_54.jpg?itok=aV6HUXSU&timestamp=1558649815" alt="70 Logo" width="300"/>
